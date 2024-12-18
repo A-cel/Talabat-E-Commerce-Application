@@ -1,0 +1,17 @@
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+C:\Users\hitech\source\repos\Talabat.Api\Talabat.Services\obj\Debug\net6.0\Talabat..D0FE60AD.Up2Date

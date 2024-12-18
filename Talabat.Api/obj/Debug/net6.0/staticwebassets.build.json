@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "vd00JM/tp+F/Ixpm/xgFQ3IEDqxaZnw00T36jYVxMac=",
+  "Source": "Talabat.Api",
+  "BasePath": "_content/Talabat.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.Api\\wwwroot",
+      "Source": "Talabat.Api",
+      "ContentRoot": "C:\\Users\\hitech\\source\\repos\\Talabat.Api\\Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Talabat.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hitech\\source\\repos\\Talabat.Api\\Talabat.Api\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hitech\\source\\repos\\Talabat.Api\\Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Talabat.Api",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}
