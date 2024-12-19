@@ -29,6 +29,10 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PictureUrlResolver.cs",
@@ -38,8 +42,7 @@
               "RelativeToolTip": "Talabat.Api\\Helpers\\PictureUrlResolver.cs",
               "ViewState": "AQIAAAUAAABgzczMzMwmwBIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:15:52.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T09:15:52.213Z"
             },
             {
               "$type": "Document",
@@ -51,8 +54,7 @@
               "RelativeToolTip": "Talabat.Api\\appsettings.json",
               "ViewState": "AQIAAAEAAACAZmZmZmYOwBMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T09:16:18.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T09:16:18.825Z"
             },
             {
               "$type": "Document",
@@ -64,12 +66,7 @@
               "RelativeToolTip": "Talabat.Api\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAABwAAACAaGZmZmYrwC8AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:09:15.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "WhenOpened": "2024-12-10T09:09:15.315Z"
             },
             {
               "$type": "Document",
